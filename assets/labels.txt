@@ -1,0 +1,23 @@
+Limite de vitesse(20km/h)
+Limite de vitesse(30km/h)
+Limite de vitesse(50km/h)
+Limite de vitesse(60km/h)
+Limite de vitesse(70km/h)
+Limite de vitesse(80km/h)
+Fin de la limite de vitesse (80km/h)
+Limite de vitesse(100km/h)
+Limite de vitesse(120km/h)
+Pas de passage
+Aucun véhicule de passage de plus de 3,5
+Droit de passage à l`intersection
+Route prioritaire
+Rendement
+Stop
+Pas de véhicules
+Veh>3,5tonnes interdit
+Aucune entrée
+Mise en garde générale
+Courbe dangereuse à gauche
+Courbe dangereuse à droite
+Double courbe
+Route cahoteuse
